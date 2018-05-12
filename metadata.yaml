@@ -1,10 +1,16 @@
 _repo: A-Report-upon-the-Mollusk-Fisheries-of-Massachusetts_48195
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48195-h/images/cover.jpg
 creator:
   author:
     agent_name: Fisheries, Commissioners on
     gutenberg_agent_id: '44670'
     url: http://www.gutenberg.org/2009/agents/44670
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48195#A-Report-upon-the-Mollusk-Fisheries-of-Massachusetts
 gutenberg_issued: '2015-02-08'
 gutenberg_type: Text
 identifiers:
